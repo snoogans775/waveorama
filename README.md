@@ -1,4 +1,4 @@
-# Patagonia Wave Display Network
+# Wave Display Network
 This is a source repository for java-processing, bash, and linux config files for a Raspberry-Pi powered display system.
 
 - Applications - 
