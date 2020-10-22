@@ -38,10 +38,7 @@ void setup() {
 
 void draw() {
   // Receive data from GPIO
-  //GPIOlow(pedal, 1);
-  //GPIOlow(pedal, 2);
   GPIOhandler();
-  // Needs refactoring of GPIOlow function
 
   // Refresh screen
   fill(0, 100, 0);
